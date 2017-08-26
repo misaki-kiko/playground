@@ -3,5 +3,6 @@
 int main() {
     std::cout << "f**k you" << std::endl;
     std::cout << "thank you sir" << std::endl;
+    std::cout << "xd" << std::endl;
     return 0;
 }
